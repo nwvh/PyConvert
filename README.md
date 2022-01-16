@@ -6,9 +6,9 @@ Pyconvert is a python script that you can use to convert image files to another 
 
 # Screenshots
 
-![mainmenu](https://woox.space/X7tk3BL8)
-![convert](https://woox.space/NwCwrPhV)
-![converting](https://woox.space/A56sRtbD)
-![result](https://woox.space/CGpaj5Jn)
+![mainmenu](https://cdn.upload.systems/uploads/X7tk3BL8.png)
+![convert](https://cdn.upload.systems/uploads/NwCwrPhV.png)
+![converting](https://cdn.upload.systems/uploads/A56sRtbD.png)
+![result](https://cdn.upload.systems/uploads/CGpaj5Jn.png)
 
 
